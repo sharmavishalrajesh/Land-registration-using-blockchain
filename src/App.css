@@ -1,0 +1,43 @@
+.emblem {
+    width: 100px;
+    height: auto;
+  }
+  
+  .svnit {
+    width: 200px; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .mainDiv {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .landingPage-heading-div {
+    margin-bottom: 20px;
+  }
+  
+  .landingPage-btn {
+    padding: 40px 40px;
+    background-color: #ff0000; /* Red color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .landingPage-btn:hover {
+    background-color: #28a745; /* Darker red on hover */
+  }
+  
+  
+  .welcome-p {
+    margin-top: 20px;
+    font-size: 30px;
+  }
+
+  .welcome-d {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
